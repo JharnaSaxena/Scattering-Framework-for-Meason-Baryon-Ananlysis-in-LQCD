@@ -7,8 +7,8 @@
 <body>
 <div class="container">
 
-<h1>Finite-Volume Scattering Analysis for Meson-Baryon Systems</h1>
-
+<h1>Single Channel Scattering Analysis for Meson-Baryon Systems</h1>
+ 
 <h2>Overview</h2>
 
 <p>This repository implements a computational pipeline for analyzing two-particle scattering in a finite volume from lattice QCD energy levels. It provides a complete framework for extracting scattering parameters from lattice QCD data using the Lüscher formalism, with a specific focus on the πΣ system in the S-wave. The pipeline handles unequal masses, multiple momentum frames, and uses a robust fitting procedure with detailed uncertainty estimation.</p>
